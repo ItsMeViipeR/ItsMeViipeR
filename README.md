@@ -13,7 +13,7 @@
 <h3 align="left">Suivez moi :</h3>
 
 <p align="left">
-    <a href="https://twitter.com/SKKYZ3R_DEV" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="icerodev" height="40" /></a> <a href="https://discord.com/users/518113582110605326" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="SKKYZ3R" height="40" /></a> <a href="https://discord.com/users/495874584650842123" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" alt="SKKYZ3R" height="40" /></a>
+    <a href="https://twitter.com/SKKYZ3R_DEV" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="icerodev" height="40" /></a> <a href="https://discord.com/users/518113582110605326" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="SKKYZ3R" height="40" /></a> <a href="https://www.twitch.tv/SKKYZ3R" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" alt="Twitch SKKYZ3R" height="40" /></a>
 </p>
 
 <h3>Langages et outils :</h3>
