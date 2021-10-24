@@ -6,7 +6,7 @@
 
 - ⌨ Je suis actuellement Président de l'association [Elysao](https://www.elysao.fr)
 
-- 🌱 Je suis actuellement en fin de formation au language TypeScript.
+- 🌱 Je suis actuellement en fin de formation au language Rust.
 
 - 🚧 Mon projet personnel est [HeavensBot](https://discord.gg/4jWU5u8)
 
