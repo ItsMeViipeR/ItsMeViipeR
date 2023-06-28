@@ -4,16 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/SKKYZ3R_DEV" target="blank"><img src="https://img.shields.io/twitter/follow/skkyz3r_dev?logo=twitter&style=for-the-badge" alt="SKKYZ3R" /></a> </p>
 
-- ⌨ Je suis actuellement Président de l'association [Elysao](https://www.elysao.fr)
-
-- 🌱 Je suis actuellement en fin de formation au language Rust.
-
-- 🚧 Mon projet personnel est [HeavensBot](https://discord.gg/4jWU5u8)
+- 🌱 Je suis actuellement en fin de formation à la librarie Svelte.js.
 
 <h3 align="left">Suivez moi :</h3>
 
 <p align="left">
-    <a href="https://twitter.com/SKKYZ3R_DEV" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="icerodev" height="40" /></a> <a href="https://discord.com/users/518113582110605326" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="SKKYZ3R" height="40" /></a> <a href="https://www.twitch.tv/SKKYZ3R" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" alt="Twitch SKKYZ3R" height="40" /></a>
+    <a href="https://twitter.com/ViiiiipeR_RL" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="icerodev" height="40" /></a> <a href="https://discord.com/users/518113582110605326" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="SKKYZ3R" height="40" /></a> <a href="https://www.twitch.tv/viiiiiper_rl" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" alt="Twitch SKKYZ3R" height="40" /></a>
 </p>
 
 <h3>Langages et outils :</h3>
