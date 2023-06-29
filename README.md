@@ -1,8 +1,8 @@
-<h1 align="center">Hello, je suis SKKYZ3R !</h1>
+<h1 align="center">Hello, je suis ViipeR !</h1>
 
-<h3 align="center">Je suis développeur web et discord.js depuis mi 2018.</h3>
+<h3 align="center">Je suis développeur web depuis mi 2018.</h3>
 
-<p align="left"> <a href="https://twitter.com/SKKYZ3R_DEV" target="blank"><img src="https://img.shields.io/twitter/follow/skkyz3r_dev?logo=twitter&style=for-the-badge" alt="SKKYZ3R" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ViiiiipeR_RL" target="blank"><img src="https://img.shields.io/twitter/follow/skkyz3r_dev?logo=twitter&style=for-the-badge" alt="SKKYZ3R" /></a> </p>
 
 - 🌱 Je suis actuellement en fin de formation à la librarie Svelte.js.
 
