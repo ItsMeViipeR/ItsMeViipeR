@@ -2,7 +2,7 @@
 
 <h3 align="center">Je suis développeur web depuis mi 2018.</h3>
 
-<p align="left"> <a href="https://twitter.com/ViiiiipeR_RL" target="blank"><img src="https://img.shields.io/twitter/follow/skkyz3r_dev?logo=twitter&style=for-the-badge" alt="SKKYZ3R" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ViiiiipeR_RL" target="blank"><img src="https://img.shields.io/twitter/follow/ViiiiipeR_RL?logo=twitter&style=for-the-badge" alt="SKKYZ3R" /></a> </p>
 
 - 🌱 Je suis actuellement en fin de formation à la librarie Svelte.js.
 
