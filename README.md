@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ViiiiipeR_RL" target="blank"><img src="https://img.shields.io/twitter/follow/ViiiiipeR_RL?logo=twitter&style=for-the-badge" alt="ViipeR" /></a> </p>
 
-- 🌱 I'm actually in the end of Svelte.js and Rust formations.
+- 🌱 I'm currently in the end of Svelte.js and Rust formations.
 
 <h3 align="left">Follow me:</h3>
 
