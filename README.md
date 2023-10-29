@@ -2,7 +2,7 @@
 
 ### I'm a Web developer since 2020.
 
-<p align="left"> [![ViipeR](https://img.shields.io/twitter/follow/ViiiiipeR_RL?logo=twitter&style=for-the-badge)](https://twitter.com/ViiiiipeR_RL) </p>
+<p align="left"> <a href="https://twitter.com/ViiiiipeR_RL" target="blank"><img src="https://img.shields.io/twitter/follow/ViiiiipeR_RL?logo=twitter&style=for-the-badge" alt="ViipeR" /></a> </p>
 
 - 🌱 I'm currently in the end of [React](https://reactjs.org/) and [Rust](https://www.rust-lang.org/learn) formations.
 
