@@ -28,7 +28,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
     </a>
     <a href="https://react.dev/">
-        <img src="[https://cdn.imgbin.com/7/4/21/imgbin-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-rKPEa4icyZfFTqLfz73wKvfBn.jpg](https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0)" alt="React" width="40" height="40">
+        <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png" alt="React" width="40" height="40">
     </a>
 </p>
 
