@@ -32,6 +32,5 @@
     </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeViipeR&theme=radical&langs_count=3&count_private=true&locale=fr" alt="ViipeR languages" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsMeViipeR&theme=radical&show_icons=true&locale=fr&count_private=true" alt="ViipeR" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeViipeR&layout=pie&theme=transparent&hide_border=true&locale=fr)
+![ViipeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMeViipeR&show_icons=true&theme=transparent&hide_border=true&locale=fr)
