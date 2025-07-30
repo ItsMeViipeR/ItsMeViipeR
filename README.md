@@ -4,7 +4,7 @@
 ### 💻 Web Developer since 2020  
 I'm a passionate web developer with several years of experience building modern and responsive web applications. I enjoy learning new technologies and building fun, functional, and meaningful projects.
 
-- 🌱 Currently pursuing a Bachelor's degree in Computer Science at **Université Paris 8**.
+- 🌱 Currently pursuing a Bachelor's degree in Computer Science at **Université Paris 8** (completed 1st year – Bac+1)
 - 🚀 Always exploring new languages, frameworks, and tools.
 - 🎮 Tech enthusiast and gamer on my free time.
 
